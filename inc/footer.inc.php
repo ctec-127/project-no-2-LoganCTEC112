@@ -1,0 +1,12 @@
+<?php // Footer Include ?>
+
+<!-- jQuery -->
+<script src="js/jquery-3.3.1.min.js"></script>
+<!-- Bootstrap JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<div id="footer">
+    <p>&copy; Logan's Project 2</p>
+</div>
+</body>
+</html>
